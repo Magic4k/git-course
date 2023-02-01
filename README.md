@@ -1,3 +1,3 @@
 # git-course
-for git course
-##HERE IS MY CODE
+##for git course
+###HERE IS MY CODE
